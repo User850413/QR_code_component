@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [사용한 것](#사용한-것)
     - [배운 점](#배운-점)
     - [향후 주목할 분야](#향후-주목할-분야)
-    - [유용한 링크](#유용한-링크)
+    - [참고 링크](#참고-링크)
   - [작성자](#작성자)
   - [참고](#참고)
 
@@ -87,7 +87,9 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.** -->
 
-### 유용한 링크
+### 참고 링크
+
+- 사용한 폰트 : [outfit](https://fonts.google.com/share?selection.family=DM+Serif+Display:ital@0;1|Noto+Sans+KR:wght@100..900|Noto+Sans:ital,wght@0,100..900;1,100..900|Noto+Serif:ital,wght@0,100..900;1,100..900|Outfit:wght@100..900|Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900)
 
 <!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
